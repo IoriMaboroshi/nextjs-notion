@@ -17,8 +17,7 @@ export default siteConfig({
   description: '伊緻幻的主页',
 
   // social usernames (optional)
-  twitter: 'IoriMaboroshi',
-  github: 'IoriMaboroshi',
+
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
