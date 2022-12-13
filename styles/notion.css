@@ -365,7 +365,7 @@
   backdrop-filter: saturate(180%) blur(16px);
 }
 
-e {
+body.dark-mode {
   --bg-color: #191919 !important
 }
 
