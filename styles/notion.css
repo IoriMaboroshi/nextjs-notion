@@ -365,8 +365,8 @@
   backdrop-filter: saturate(180%) blur(16px);
 }
 
-body.dark-mode {
-  --bg-color: #181818 !important
+e {
+  --bg-color: #191919 !important
 }
 
 .dark-mode .notion-header {
